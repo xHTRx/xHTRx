@@ -7,7 +7,7 @@ Sou um **Analista e Desenvolvedor de Sistemas** formado pela Universidade Positi
 ### 🚀 Sobre Mim
 - 🎇 **Profissão:** Professor de Inglês na BRIDGE
 - 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS).
-- 🧠 **Interesses:** Data Science, Machine Learning, Engenharia de Dados e Automação.
+- 🧠 **Interesses:** Data Science, Machine Learning, Desenvolvimento Mobile e Automação.
 - 🌱 **No momento:** Aprofundando conhecimentos em Python para IA e ferramentas de análise preditiva.
 - 🎯 **Objetivo:** Criar soluções que transformem dados brutos em decisões inteligentes.
 
@@ -15,26 +15,33 @@ Sou um **Analista e Desenvolvedor de Sistemas** formado pela Universidade Positi
 
 ### 🛠️ Tech Stack
 
-**Linguagens e Data Science:**
+**Mobile & Frontend:**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
+
+**Data Science & Backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Visualização e Web:**
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-
 ---
 
-### 📊 Projeto em Destaque
+### 📊 Projetos em Destaque
+
+#### 🎓 [Carteirinha Digital Universitária - Julius Edition](https://github.com/xHTRx/4.0---PROJECT-APP.MOBILE---UPDATED.git)
+Aplicação Android nativa focada em segurança acadêmica e benefícios estudantis:
+* **Segurança:** Implementação de **QR Code dinâmico** com atualização temporal (10s) para prevenção de fraudes.
+* **Arquitetura Moderna:** Desenvolvido em **Kotlin** com **Jetpack Compose** seguindo o padrão **MVVM**.
+* **Persistência Local:** Uso de **Room Database** para gestão offline de perfis e cronogramas.
 
 #### 🏥 [Análise Preditiva de Hospitalizações do SUS (PR)](https://github.com/xHTRx/Analise-Em-Python-Das-Hospitalizacoes-Do-SUS-No-Parana.git)
-Neste projeto, desenvolvi uma solução completa de Data Science para gestão hospitalar:
-* **Pipeline Automática:** Consumo de dados diretamente do GitHub para o Google Colab.
+Solução completa de Data Science para gestão hospitalar:
+* **Pipeline Automática:** Consumo de dados direto do GitHub para o Google Colab.
 * **Modelagem:** Uso de K-Means (Clustering) e KNN/Random Forest (Classificação) para prever gastos.
-* **Dashboard:** Interface interativa em Dash para visualização de KPIs e análise 3D de grupos hospitalares.
+* **Dashboard:** Interface interativa em Dash para visualização de KPIs e análise 3D de grupos.
 
 ---
 
