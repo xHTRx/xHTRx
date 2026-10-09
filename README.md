@@ -1,12 +1,12 @@
 # Olá, me chamo Heitor! 👋
 
-Sou um **Analista e Desenvolvedor de Sistemas** formado pela Universidade Positivo. Aos 19 anos, dou aulas de inglês na BRIDGE e foco meus estudos na intersecção entre o desenvolvimento de software tradicional e a **Inteligência Artificial**.
+Sou um **Analista e Desenvolvedor de Sistemas** formado pela Universidade Positivo. Graduando em Engenharia de Software, os 20 anos, dou aulas de inglês na BRIDGE e atuo como recepcionista e foco meus estudos na intersecção entre o desenvolvimento de software tradicional e a **Inteligência Artificial**.
 
 ---
 
 ### 🚀 Sobre Mim
-- 🎇 **Profissão:** Professor de Inglês na BRIDGE
-- 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS).
+- 🎇 **Profissão:** Professor de Inglês e recepcionista na BRIDGE
+- 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS). Cursando Engenharia de Software
 - 🧠 **Interesses:** Data Science, Machine Learning, Desenvolvimento Mobile e Automação.
 - 🌱 **No momento:** Aprofundando conhecimentos em Python para IA e ferramentas de análise preditiva.
 - 🎯 **Objetivo:** Criar soluções que transformem dados brutos em decisões inteligentes.
