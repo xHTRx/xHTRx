@@ -1,6 +1,6 @@
 # Olá, me chamo Heitor! 👋
 
-Sou um **Analista e Desenvolvedor de Sistemas** formado pela Universidade Positivo. Graduando em Engenharia de Software, os 20 anos, dou aulas de inglês na BRIDGE e atuo como recepcionista e foco meus estudos na intersecção entre o desenvolvimento de software tradicional e a **Inteligência Artificial**.
+Sou um **Analista e Desenvolvedor de Sistemas** formado pela Universidade Positivo. Graduando em Engenharia de Software, os 20 anos, dou aulas de inglês na BRIDGE e atuo como recepcionista, foco meus estudos na intersecção entre o desenvolvimento de software tradicional e a **Inteligência Artificial**.
 
 ---
 
